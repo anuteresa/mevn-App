@@ -18,7 +18,8 @@
   ## Output Screenshots
 
 ### 1. Launch List View
-![Launch List](outputs/Launch_list.png)
+
+<img src="outputs/Launch_list.png" alt="Launch List" width="500"/>
 
 ### 2. Saved Launches
 ![Saved Launches](outputs/Saved_List.png)
