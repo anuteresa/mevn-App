@@ -6,8 +6,7 @@
    
 ## Frontend Setup 
 1.  **npm install**
-    <!-- Copy Button -->
-3.   **npm run dev**
+2.  **npm run dev**
 
 ## Backend Setup
 
@@ -22,5 +21,6 @@
 <img src="outputs/Launch_list.png" alt="Launch List" width="500"/>
 
 ### 2. Saved Launches
-![Saved Launches](outputs/Saved_List.png)
+
+<img src="outputs/Saved_List.png" alt="Launch List" width="500"/>
 
