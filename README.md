@@ -18,8 +18,8 @@
   ## Output Screenshots
 
 ### 1. Launch List View
-![Launch List](outputs/launch-list.png)
+![Launch List](outputs/Launch_list.png)
 
 ### 2. Saved Launches
-![Saved Launches](outputs/saved-launches.png)
+![Saved Launches](outputs/Saved_List.png)
 
