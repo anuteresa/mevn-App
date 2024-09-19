@@ -15,5 +15,11 @@
 2.  **npm install**
 3.   **npm start**
    
-  
+  ## Output Screenshots
+
+### 1. Launch List View
+![Launch List](outputs/launch-list.png)
+
+### 2. Saved Launches
+![Saved Launches](outputs/saved-launches.png)
 
