@@ -6,7 +6,8 @@
    
 ## Frontend Setup 
 1.  **npm install**
-2.   **npm run dev**
+    <!-- Copy Button -->
+3.   **npm run dev**
 
 ## Backend Setup
 
